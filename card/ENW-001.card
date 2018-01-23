@@ -1,0 +1,155 @@
+{
+  "cardId": "ENW-001",
+  "faceupData": {
+    "nameTextId": "ENW-001-F",
+    "cardType": 4,
+    "texturePath": "ENW-001.png",
+    "deckTexturePath": "",
+    "battleBackgroundTexturePath": "",
+    "playCosts": [
+      0
+    ],
+    "attributeTypes": [
+      0
+    ],
+    "subtypes": [],
+    "nameCategories": [],
+    "originalAtk": -1,
+    "originalDef": -1,
+    "isFreeCostX": false,
+    "originalAbilities": [
+      {
+        "isChase": true,
+        "isShowDetailText": false,
+        "detailTextId": null,
+        "triggerDatas": [
+          {
+            "type": 3,
+            "parameter": "zonetype:2\nplaytype:0\ncontextmenutextid:214"
+          }
+        ],
+        "targetDatas": [
+          {
+            "type": 0,
+            "parameter": ""
+          }
+        ],
+        "costDatas": [
+          {
+            "type": 1,
+            "parameter": "light:1"
+          }
+        ],
+        "effectDatas": [
+          {
+            "type": 36,
+            "parameter": "",
+            "conditionDatas": [],
+            "deadlineDatas": []
+          }
+        ],
+        "conditionDatas": [],
+        "deadlineDatas": []
+      },
+      {
+        "isChase": false,
+        "isShowDetailText": true,
+        "detailTextId": "be17affd-f16d-480e-a065-515062b91d1b",
+        "triggerDatas": [],
+        "targetDatas": [],
+        "costDatas": [],
+        "effectDatas": [],
+        "conditionDatas": [],
+        "deadlineDatas": []
+      },
+      {
+        "isChase": true,
+        "isShowDetailText": true,
+        "detailTextId": "41b1ddd0-4da1-46ff-83f9-cdd19f977306",
+        "triggerDatas": [
+          {
+            "type": 3,
+            "parameter": "zonetype:3\nplaytype:1"
+          }
+        ],
+        "targetDatas": [
+          {
+            "type": 3,
+            "parameter": "cardtype:2\nzonetype:3\nnum:1\nmessagetextid:113"
+          }
+        ],
+        "costDatas": [
+          {
+            "type": 1,
+            "parameter": "light:1"
+          },
+          {
+            "type": 2,
+            "parameter": "self:1"
+          }
+        ],
+        "effectDatas": [
+          {
+            "type": 20,
+            "parameter": "index:0",
+            "conditionDatas": [],
+            "deadlineDatas": []
+          }
+        ],
+        "conditionDatas": [
+          {
+            "type": 8,
+            "parameter": ""
+          }
+        ],
+        "deadlineDatas": []
+      }
+    ],
+    "enchantAbilities": [
+      {
+        "isChase": true,
+        "isShowDetailText": true,
+        "detailTextId": "03f1a34e-30f4-4eba-ab1f-86680fe0c76b",
+        "triggerDatas": [
+          {
+            "type": 11,
+            "parameter": "self:1"
+          }
+        ],
+        "targetDatas": [
+          {
+            "type": 3,
+            "parameter": "self:1"
+          }
+        ],
+        "costDatas": [],
+        "effectDatas": [
+          {
+            "type": 6,
+            "parameter": "",
+            "conditionDatas": [],
+            "deadlineDatas": []
+          },
+          {
+            "type": 39,
+            "parameter": "atk:200\ndef:200",
+            "conditionDatas": [],
+            "deadlineDatas": [
+              {
+                "type": 1,
+                "parameter": ""
+              }
+            ]
+          }
+        ],
+        "conditionDatas": [],
+        "deadlineDatas": []
+      }
+    ],
+    "collectorId": "ENW-001 C",
+    "maxNum": 4,
+    "expansionType": 5
+  },
+  "facedownData": null,
+  "additionalFaceDatas": []
+}
