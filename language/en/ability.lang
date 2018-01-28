@@ -1358,3 +1358,11 @@ c5c41410-bc71-44f2-9cb3-cfe29c80a64e@@You may pay [w][1] less to play this card 
 f3d55e41-105e-449c-b313-3ff85612b6ff@@Target J/resonator gains [+800/+800], [Barrier], and [Flying], until end of turn.
 31647f9c-02d8-4cb0-af79-e8ebeb3c0cfe@@Look at the top four cards of your deck. You may reveal a card with [Will of Hope] from among them and put it into your hand. Put the rest on the bottom of your deck in any order.
 ce923915-fe13-47fc-9432-b1c4c03968dc@@[rest]: Target resonator with [Will of Hope] gains [+200/+200] until end of turn.
+7e6dd827-4048-4eae-a04a-3f750d3a9080@@You cannot be targeted by spells or abilities until end of turn. Draw a card.
+e42a2389-409f-4c8c-8393-a6a9dc02ebb8@@(As you play this card, if you control seven or more magic stones, it gains the following text.) J/resonators you control cannot be destroyed until end of turn.
+a8e0f1b2-684e-4102-b223-5961f3b18a03@@As this card enters your field, choose an attribute.
+c21978ed-d64a-4839-84c5-4bb9eb1e85f0@@J/resonators you control gain [Barrier](Chosen attribute).
+228c6dad-30cf-46ed-a7b3-5dc494c1561a@@[Barrier] [w] (This card cannot be targeted by light spells or abilities your opponent controls.)
+d5dc5364-1792-4f11-8673-5269447ac3db@@[Barrier] [r] (This card cannot be targeted by fire spells or abilities your opponent controls.)
+719cf286-496a-4735-91f5-9c7a4f020fb5@@[Barrier] [u] (This card cannot be targeted by water spells or abilities your opponent controls.)
+a71a7ef6-e5cf-4a40-8c93-ce281c3f95cc@@[Barrier] [g] (This card cannot be targeted by wind spells or abilities your opponent controls.)
