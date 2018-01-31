@@ -1,0 +1,235 @@
+{
+  "cardId": "ENW-016",
+  "faceupData": {
+    "nameTextId": "ENW-016-F",
+    "cardType": 2,
+    "texturePath": "ENW-016.png",
+    "deckTexturePath": null,
+    "battleBackgroundTexturePath": null,
+    "playCosts": [
+      0,
+      0
+    ],
+    "attributeTypes": [
+      0
+    ],
+    "subtypes": [
+      2
+    ],
+    "nameCategories": [],
+    "originalAtk": 600,
+    "originalDef": 600,
+    "isFreeCostX": false,
+    "originalAbilities": [
+      {
+        "isChase": false,
+        "isShowDetailText": true,
+        "detailTextId": "4a71d84a-48d5-4cd4-8a48-ca40ea4264ea",
+        "triggerDatas": [
+          {
+            "type": 0,
+            "parameter": ""
+          }
+        ],
+        "targetDatas": [
+          {
+            "type": 0,
+            "parameter": ""
+          }
+        ],
+        "costDatas": [],
+        "effectDatas": [
+          {
+            "conditionDatas": [],
+            "deadlineDatas": [],
+            "type": 74,
+            "parameter": "subtype:71"
+          }
+        ],
+        "conditionDatas": [],
+        "deadlineDatas": []
+      },
+      {
+        "isChase": false,
+        "isShowDetailText": true,
+        "detailTextId": "b4fd3f72-9e10-4a8f-8f52-4e06b47decf1",
+        "triggerDatas": [
+          {
+            "type": 0,
+            "parameter": ""
+          }
+        ],
+        "targetDatas": [
+          {
+            "type": 0,
+            "parameter": ""
+          }
+        ],
+        "costDatas": [],
+        "effectDatas": [
+          {
+            "conditionDatas": [],
+            "deadlineDatas": [],
+            "type": 15,
+            "parameter": ""
+          }
+        ],
+        "conditionDatas": [],
+        "deadlineDatas": []
+      },
+      {
+        "isChase": true,
+        "isShowDetailText": false,
+        "detailTextId": null,
+        "triggerDatas": [
+          {
+            "type": 3,
+            "parameter": "zonetype:2\nplaytype:0"
+          }
+        ],
+        "targetDatas": [
+          {
+            "type": 0,
+            "parameter": ""
+          }
+        ],
+        "costDatas": [
+          {
+            "type": 1,
+            "parameter": "light:2"
+          }
+        ],
+        "effectDatas": [
+          {
+            "conditionDatas": [],
+            "deadlineDatas": [],
+            "type": 36,
+            "parameter": ""
+          }
+        ],
+        "conditionDatas": [],
+        "deadlineDatas": []
+      },
+      {
+        "isChase": false,
+        "isShowDetailText": true,
+        "detailTextId": "3230e8b6-c6b1-4e5c-aa26-aee5ef9e6f7d",
+        "triggerDatas": [
+          {
+            "type": 6,
+            "parameter": ""
+          }
+        ],
+        "targetDatas": [
+          {
+            "type": 2,
+            "parameter": ""
+          }
+        ],
+        "costDatas": [],
+        "effectDatas": [
+          {
+            "conditionDatas": [],
+            "deadlineDatas": [
+              {
+                "type": 3,
+                "parameter": ""
+              }
+            ],
+            "type": 135,
+            "parameter": ""
+          }
+        ],
+        "conditionDatas": [],
+        "deadlineDatas": [
+          {
+            "type": 3,
+            "parameter": ""
+          }
+        ]
+      },
+      {
+        "isChase": false,
+        "isShowDetailText": true,
+        "detailTextId": "95764a8a-49c0-4a5c-ac8a-b688529889e9",
+        "triggerDatas": [
+          {
+            "type": 35,
+            "parameter": ""
+          }
+        ],
+        "targetDatas": [
+          {
+            "type": 4,
+            "parameter": ""
+          }
+        ],
+        "costDatas": [],
+        "effectDatas": [
+          {
+            "conditionDatas": [],
+            "deadlineDatas": [],
+            "type": 120,
+            "parameter": "index:0"
+          }
+        ],
+        "conditionDatas": [],
+        "deadlineDatas": []
+      }
+    ],
+    "enchantAbilities": [
+      {
+        "isChase": false,
+        "isShowDetailText": false,
+        "detailTextId": null,
+        "triggerDatas": [
+          {
+            "type": 35,
+            "parameter": "zonetype:3"
+          }
+        ],
+        "targetDatas": [
+          {
+            "type": 3,
+            "parameter": "trigger:0"
+          }
+        ],
+        "costDatas": [],
+        "effectDatas": [
+          {
+            "conditionDatas": [
+              {
+                "type": 9,
+                "parameter": "cardtype:2"
+              },
+              {
+                "type": 31,
+                "parameter": "control:0"
+              }
+            ],
+            "deadlineDatas": [
+              {
+                "type": 3,
+                "parameter": ""
+              }
+            ],
+            "type": 137,
+            "parameter": ""
+          }
+        ],
+        "conditionDatas": [],
+        "deadlineDatas": [
+          {
+            "type": 3,
+            "parameter": ""
+          }
+        ]
+      }
+    ],
+    "collectorId": "ENW-016 R",
+    "maxNum": 4,
+    "expansionType": 5
+  },
+  "facedownData": null,
+  "additionalFaceDatas": []
+}
